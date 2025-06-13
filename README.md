@@ -9,7 +9,7 @@ It includes topics like arrays, strings, recursion, sorting, linked lists, trees
 
 - Practice DSA for coding interviews.
 - Learn Java fundamentals.
-- Track progress during #100DaysOfCode.
+- Track progress during preparation phase.
 
 ---
 
